@@ -1,5 +1,6 @@
 ![Unity](https://img.shields.io/badge/Unity-unity?logo=Unity&color=%23000000)
 ![C#](https://img.shields.io/badge/C%23-%23512BD4?logo=.NET)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=%23ffffff&labelColor=%233776AB)
 ![License](https://img.shields.io/github/license/HardCodeDev777/EmotionGestureBlinkUnity?color=%2305991d)
 ![Last commit](https://img.shields.io/github/last-commit/HardCodeDev777/EmotionGestureBlinkUnity?color=%2305991d)
 ![Tag](https://img.shields.io/github/v/tag/HardCodeDev777/EmotionGestureBlinkUnity)
