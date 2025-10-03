@@ -131,12 +131,4 @@ See [LICENSE](LICENSE) for details.
 
 ---
 
-## 👨‍💻 Author
-
-**HardCodeDev**  
-- [GitHub](https://github.com/HardCodeDev777)  
-- [Itch.io](https://hardcodedev.itch.io/)  
-
----
-
 > 💬 Got feedback, found a bug, or want to contribute? Open an issue or fork the repo!
