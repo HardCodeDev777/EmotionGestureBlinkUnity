@@ -120,7 +120,7 @@ public static GestureType CurrentGesture { get; private set; } = GestureType.Non
 Big thanks to:  
 - [ipraveenkmr/python-open-cv-projects](https://github.com/ipraveenkmr/python-open-cv-projects) (base for gestures & emotions)  
 - Vigil devs for the blink detection idea  
-- AI for some Python help (I dob't like this language, but I had no choice😅)
+- AI for some Python help (I don't like this language, but I had no choice😅)
 
 ---
 
