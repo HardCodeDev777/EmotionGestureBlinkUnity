@@ -128,7 +128,3 @@ Big thanks to:
 
 This project is under the **MIT License**.  
 See [LICENSE](LICENSE) for details.
-
----
-
-> 💬 Got feedback, found a bug, or want to contribute? Open an issue or fork the repo!
